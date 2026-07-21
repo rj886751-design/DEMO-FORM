@@ -4,7 +4,7 @@ h1 {
 }
 main {
    text-align: center;
-   background-color: blue;
+   background-color: black;
    border-radius: 5rem;
    color: white;
   
@@ -35,7 +35,7 @@ main {
      border-radius: 5rem;
 }
 #btn{
-    color: blue;
+    color: black;
     border-radius: 1.3rem;
     margin-top: 1.5rem;
 }
